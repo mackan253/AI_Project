@@ -5,3 +5,10 @@
 *.sqlite
 *.v2
 *.v1
+*.props
+AI_Project/AI_Project/obj/AI_Project.csproj.nuget.dgspec.json
+AI_Project/AI_Project/obj/AI_Project.csproj.nuget.g.props
+AI_Project/AI_Project/obj/Debug/net6.0/AI_Project.assets.cache
+AI_Project/AI_Project/obj/Debug/net6.0/AI_Project.GeneratedMSBuildEditorConfig.editorconfig
+AI_Project/AI_Project/obj/project.assets.json
+AI_Project/AI_Project/obj/project.nuget.cache
