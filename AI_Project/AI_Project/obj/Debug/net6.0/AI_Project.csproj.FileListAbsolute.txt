@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\AI_Project.exe
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\AI_Project.deps.json
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\AI_Project.runtimeconfig.json
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\AI_Project.dll
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\ref\AI_Project.dll
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\bin\Debug\net6.0\AI_Project.pdb
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.AssemblyInfo.cs
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.dll
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\ref\AI_Project.dll
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.pdb
+C:\Users\Administrator\Documents\NovaIMS\AI\AI_Project\AI_Project\AI_Project\obj\Debug\net6.0\AI_Project.genruntimeconfig.cache
