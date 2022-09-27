@@ -1,1 +1,7 @@
 
+.vs/slnx.sqlite
+*.sqlite
+*.json
+*.sqlite
+*.v2
+*.v1
